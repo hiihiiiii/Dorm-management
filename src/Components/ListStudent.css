@@ -1,0 +1,65 @@
+/* Sidebar Icons */
+.sidebar ul li a {
+    padding: 10px;
+    display: block;
+    transition: background-color 0.3s ease;
+}
+.mai
+.main .d-flex{
+    padding: 20px 0;
+}
+.sidebar{
+    background-color: #04396d;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    max-height: fit-content;
+    min-width: max-content;
+}
+
+.sidebar ul li a .svg-inline--fa {
+    margin-right: 10px;
+}
+
+.sidebar ul li a:hover {
+    background-color: #64a5f4;
+}
+.container {
+    margin-top: 20px;
+  }
+  .input-group{
+    margin-bottom: 10px;
+    width: 30%;
+  }
+  .input-group .form-control {
+    border-right: 0;
+  }
+  
+  .input-group .btn {
+    border-left: 0;
+  }
+  
+  .action-buttons .btn {
+    margin-right: 5px;
+  }
+
+/* Footer Icons */
+.social-icons a {
+    font-size: 24px;
+    margin-right: 10px;
+    cursor: pointer;
+    color: white;
+}
+.container h3{
+    font-size: 20px;
+}
+.social-icons a:hover {
+    color: #f0ad4e;
+}
+.content{
+    width: 100%;
+}
+.content .container{
+    margin: 0;
+    width: 100%;
+    height: fit-content;
+}
